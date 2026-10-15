@@ -12,7 +12,7 @@ Neue Android-Versionen und Updates kommen über Google Play. Die öffentliche St
 
 [Internen Google-Play-Test öffnen](https://play.google.com/apps/internaltest/4700249122595124514)
 
-Zugang für bereits freigeschaltete Testkonten. Version **0.8.5 (4023)** wurde am **15. Oktober 2026** für interne Tester freigegeben. Google kann neue Builds zeitversetzt ausliefern. [Änderungen und Hinweise](docs/preview-0.8.5.md) · [Anleitung dieser Vorabversion](docs/help-0.8.5.md).
+Zugang für bereits freigeschaltete Testkonten. Version **0.8.6 (4024)** wurde am **15. Oktober 2026** für interne Tester freigegeben. Google kann neue Builds zeitversetzt ausliefern. [Änderungen und Hinweise](docs/preview-0.8.6.md) · [Anleitung dieser Vorabversion](docs/help-0.8.6.md).
 
 Die iOS-Fassung ist noch nicht im App Store oder über TestFlight verfügbar. Einen Apple-Downloadlink ergänzen wir erst nach der tatsächlichen Freigabe.
 
