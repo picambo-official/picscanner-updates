@@ -12,15 +12,15 @@ Neue Android-Versionen und Updates kommen über Google Play. Die öffentliche St
 
 [Internen Google-Play-Test öffnen](https://play.google.com/apps/internaltest/4700249122595124514)
 
-Zugang für bereits freigeschaltete Testkonten. Version **0.8.8 (4026)** wurde am **16. Oktober 2026** für interne Tester freigegeben. Google kann neue Builds zeitversetzt ausliefern. [Änderungen und Hinweise](docs/preview-0.8.8.md) · [Anleitung dieser Vorabversion](docs/help-0.8.8.md).
+Zugang für bereits freigeschaltete Testkonten. Version **0.8.11 (4029)** ist seit **17. Oktober 2026** für interne Android-Tester verfügbar. Google kann neue Builds zeitversetzt ausliefern. [Änderungen](docs/release-0.8.11.md) · [Anleitung](docs/help-0.8.11.md).
 
 ## Kommende gemeinsame Version
 
-**0.8.10 (4028)** wurde am **16. Oktober 2026** für Android und iOS zur Store-Prüfung eingereicht. Apple zeigt „Warten auf Prüfung“, bei Google laufen die Vorabprüfungen der Einreichung. **Diese Version ist noch nicht öffentlich verfügbar.** Die öffentliche Android-Version ist zuletzt 0.8.2; der interne Test bleibt bis zur nächsten Freigabe 0.8.8.
+**0.8.11 (4029)** wurde am **17. Oktober 2026** für Android und iOS zur Store-Prüfung eingereicht. Apple bestätigt „Warten auf Prüfung“, Google „Änderungen, die überprüft werden“. **Diese Version ist noch nicht öffentlich verfügbar.** Die öffentliche Android-Version ist zuletzt als 0.8.2 bestätigt.
 
-[Änderungen in 0.8.10](docs/release-0.8.10.md) · [Anleitung für 0.8.10](docs/help-0.8.10.md)
+[Änderungen in 0.8.11](docs/release-0.8.11.md) · [Anleitung für 0.8.11](docs/help-0.8.11.md)
 
-Die erste iOS-Veröffentlichung ist eingereicht. Einen Apple-Downloadlink ergänzen wir nach der tatsächlichen öffentlichen Freigabe.
+Die erste iOS-Veröffentlichung ist eingereicht. Einen Apple-Downloadlink ergänzen wir nach der tatsächlichen öffentlichen Freigabe. Die Einreichung von 0.8.11 ersetzt den vorherigen Kandidaten 0.8.10; dessen Anleitung bleibt als historischer Stand erhalten.
 
 ## Hilfe und Informationen
 
