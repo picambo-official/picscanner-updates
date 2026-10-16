@@ -16,7 +16,7 @@ PicScanner dient dem Scannen, Verwalten, Bearbeiten und Exportieren von Dokument
 
 ## Speicherung und Dienste Dritter
 
-Die Bibliothek wird lokal gespeichert. Deinstallation und Löschen des App-Speichers können sie entfernen. Von dir eingerichtete Cloud-/NAS-Verbindungen sowie Teilen an andere Apps unterliegen auch den Bedingungen dieser Anbieter. Eine ständige Verfügbarkeit externer Dienste wird nicht zugesagt. Informationen zur Datenverarbeitung findest du unter Datenschutz. Updates erfolgen je nach Ausgabe über Google Play oder die angebotene direkte APK-Verteilung.
+Die Bibliothek wird lokal gespeichert. Deinstallation und Löschen des App-Speichers können sie entfernen. Von dir eingerichtete Cloud-/NAS-Verbindungen sowie Teilen an andere Apps unterliegen auch den Bedingungen dieser Anbieter. Eine ständige Verfügbarkeit externer Dienste wird nicht zugesagt. Informationen zur Datenverarbeitung findest du unter Datenschutz. Updates erfolgen je nach Plattform über Google Play oder den Apple App Store. Die frühere direkte APK-Verteilung wird nicht weitergeführt.
 
 ## Gesetzliche Rechte
 
