@@ -1,6 +1,6 @@
 # Datenschutz für PicScanner
 
-Stand: 5. Oktober 2026 · gilt für die Android-App com.picambo.picscanner, Version 0.8.0 und die beschriebenen Funktionen.
+Stand: 16. Oktober 2026 · gilt für PicScanner auf Android und iOS (com.picambo.picscanner) und die beschriebenen Funktionen.
 
 ## Verantwortlicher und Kontakt
 
@@ -12,21 +12,21 @@ Die App speichert Aufnahmen, importierte Dateien, Seitenkopien, OCR-Suchtext, Da
 
 ## Berechtigungen
 
-Kamerazugriff wird für Aufnahmen verwendet. Import und Export verwenden Android-Dateiauswahl und die von dir gewählten Dateien bzw. Ziele. Auf älteren Android-Versionen können dazu Speicherberechtigungen nötig sein. Du kannst Berechtigungen in den Systemeinstellungen ändern. INTERNET wird für optionale Verbindungen und externe Dienste benötigt. Die App fordert weder Standort noch Kontakte oder Mikrofonzugriff an.
+Kamerazugriff wird für Aufnahmen verwendet. Import und Export verwenden die Foto-/Dateiauswahl des jeweiligen Betriebssystems und die von dir gewählten Dateien bzw. Ziele. Auf älteren Android-Versionen können dazu Speicherberechtigungen nötig sein. Du kannst Berechtigungen in den Systemeinstellungen ändern. INTERNET wird für optionale Verbindungen und externe Dienste benötigt. Die App fordert weder Standort noch Kontakte oder Mikrofonzugriff an.
 
 ## Google ML Kit und Google Play-Dienste
 
-Für lokale Texterkennung und den alternativ aufrufbaren Google-Systemscanner verwendet die App Google ML Kit bzw. Google Play-Dienste. Google erklärt, dass Bilder, Videos, Texte und Erkennungsergebnisse dieser ML-Kit-Verarbeitung nicht an Google-Server gesendet werden. Die SDKs können jedoch Geräte-/Appinformationen, Installationskennungen, Funktionsnutzung, Latenzen und Fehlercodes für technische Diagnose und Nutzungsanalyse erheben und per HTTPS an Google übertragen. Komponenten können nachgeladen werden. Diese technischen Daten sind von den lokal verarbeiteten Dokumentinhalten zu unterscheiden. Die automatische Texterkennung kannst du in den Einstellungen ausschalten; explizit gestartete Erkennung und der Systemscanner verwenden weiterhin die jeweiligen SDKs. PicScanner enthält kein eigenes Werbe-, Tracking- oder Analyse-SDK.
+Für lokale Texterkennung verwendet die App Google ML Kit. Der alternativ aufrufbare Systemscanner nutzt unter Android Google Play-Dienste und unter iOS Apples VisionKit. Google erklärt, dass Bilder, Videos, Texte und Erkennungsergebnisse dieser ML-Kit-Verarbeitung nicht an Google-Server gesendet werden. Die SDKs können jedoch Geräte-/Appinformationen, Installationskennungen, Funktionsnutzung, Latenzen und Fehlercodes für technische Diagnose und Nutzungsanalyse erheben und per HTTPS an Google übertragen. Komponenten können nachgeladen werden. Diese technischen Daten sind von den lokal verarbeiteten Dokumentinhalten zu unterscheiden. Die automatische Texterkennung kannst du in den Einstellungen ausschalten; explizit gestartete Erkennung und der Systemscanner verwenden weiterhin die jeweiligen SDKs. PicScanner enthält kein eigenes Werbe-, Tracking- oder Analyse-SDK.
 
-Googles Erläuterungen: https://developers.google.com/ml-kit/terms und https://developers.google.com/ml-kit/android-data-disclosure. Datenschutzerklärung: https://policies.google.com/privacy.
+Googles Erläuterungen: https://developers.google.com/ml-kit/terms und https://developers.google.com/ml-kit/android-data-disclosure sowie https://developers.google.com/ml-kit/ios-data-disclosure. Datenschutzerklärung: https://policies.google.com/privacy.
 
 ## Freiwillige Übertragung und WebDAV
 
-Nur beim gewählten Teilen, Exportieren oder bei einer von dir eingerichteten automatischen WebDAV-Ablage verlassen Dokumente das Gerät. Empfänger sind die von dir ausgewählten Apps, Speicheranbieter, Empfänger oder Server. Automatische WebDAV-Uploads sind standardmäßig ausgeschaltet und werden erst nach deiner Einrichtung aktiviert. Dateien und Ordnernamen werden an deinen HTTPS-Server übertragen. Zugangsdaten werden geschützt im Android-Schlüsselspeicher hinterlegt und zur Authentifizierung an deinen Server gesendet. Es werden keine Zertifikatsprüfungen umgangen. Die Verbindung lässt sich in Cloud & NAS entfernen. Externe Kopien unterliegen den Bedingungen und Löschmöglichkeiten des jeweiligen Empfängers. Eine Transportverschlüsselung ist keine Ende-zu-Ende-Verschlüsselung der gespeicherten PDF.
+Nur beim gewählten Teilen, Exportieren oder bei einer von dir eingerichteten automatischen WebDAV-Ablage verlassen Dokumente das Gerät. Empfänger sind die von dir ausgewählten Apps, Speicheranbieter, Empfänger oder Server. Automatische WebDAV-Uploads sind standardmäßig ausgeschaltet und werden erst nach deiner Einrichtung aktiviert. Dateien und Ordnernamen werden an deinen HTTPS-Server übertragen. Zugangsdaten werden geschützt mit dem geschützten Schlüsselspeicher des Betriebssystems (Android Keystore bzw. iOS Keychain) hinterlegt und zur Authentifizierung an deinen Server gesendet. Es werden keine Zertifikatsprüfungen umgangen. Die Verbindung lässt sich in Cloud & NAS entfernen. Externe Kopien unterliegen den Bedingungen und Löschmöglichkeiten des jeweiligen Empfängers. Eine Transportverschlüsselung ist keine Ende-zu-Ende-Verschlüsselung der gespeicherten PDF.
 
 ## App-Updates und externe Links
 
-In der direkt als APK verteilten Ausgabe fragt die App GitHub nach Updates und lädt eine APK erst nach deinem Start herunter. GitHub erhält dabei übliche Verbindungsdaten, etwa die IP-Adresse, und technische HTTP-Angaben; Dokumente werden dabei nicht übermittelt. Hinweise: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement. Die Google-Play-Ausgabe prüft und installiert keine externen APK-Updates. Für Google Play und beim Öffnen von Hilfs-/Kontaktlinks gelten zusätzlich die Datenschutzhinweise der jeweiligen Anbieter. PicScanner bindet keine dynamisch geladenen Webschriften ein.
+In der direkt als APK verteilten Ausgabe fragt die App GitHub nach Updates und lädt eine APK erst nach deinem Start herunter. GitHub erhält dabei übliche Verbindungsdaten, etwa die IP-Adresse, und technische HTTP-Angaben; Dokumente werden dabei nicht übermittelt. Hinweise: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement. Die Google-Play- und App-Store-Ausgaben prüfen und installieren keine externen APK-Updates. Die direkte APK-Verteilung ist eingestellt; der vorangehende Hinweis beschreibt nur ältere Direktinstallationen. Für Google Play, den Apple App Store und beim Öffnen von Hilfs-/Kontaktlinks gelten zusätzlich die Datenschutzhinweise der jeweiligen Anbieter. PicScanner bindet keine dynamisch geladenen Webschriften ein.
 
 ## Zweck, Aufbewahrung und Löschen
 
