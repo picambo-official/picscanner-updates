@@ -12,15 +12,13 @@ Neue Android-Versionen und Updates kommen über Google Play. Die öffentliche St
 
 [Internen Google-Play-Test öffnen](https://play.google.com/apps/internaltest/4700249122595124514)
 
-Zugang für bereits freigeschaltete Testkonten. Version **0.8.12 (4030)** ist seit **17. Oktober 2026, 21:31 Uhr (Europe/Berlin)** für interne Android-Tester verfügbar. Google kann neue Builds zeitversetzt ausliefern. [Änderungen](docs/release-0.8.12.md) · [Anleitung](docs/help-0.8.12.md).
+Zugang für bereits freigeschaltete Testkonten. Version **0.8.13 (4031)** ist seit **17. Oktober 2026, 23:25 Uhr (Europe/Berlin)** für interne Android-Tester verfügbar. Google kann neue Builds zeitversetzt ausliefern. [Änderungen](docs/release-0.8.13.md) · [Anleitung](docs/help-0.8.13.md).
 
 ## Öffentliche Veröffentlichung
 
-**0.8.12 (4030)** mit NAS-Sicherung und durchsuchbarer Original-PDF-Ablage wurde am **17. Oktober 2026** für Google Play und den Apple App Store zur Prüfung eingereicht. Google bestätigt „Änderungen, die überprüft werden“, Apple seit **21:51 Uhr (Europe/Berlin)** „Warten auf Prüfung“. **0.8.12 ist noch nicht öffentlich verfügbar.**
+**Android 0.8.13 (4031)** mit Ordnerverwaltung, Ordnerfreigabe, FTP-Zielauswahl, Sicherungsanzeige und Dokumentstapel-Aufteilung wurde am **17. Oktober 2026** einschließlich neuer Beschreibung und sechs Smartphone-Bildern bei Google Play zur Prüfung eingereicht. Google bestätigt „Änderungen, die überprüft werden“; Vorabprüfungen laufen. **0.8.13 ist noch nicht öffentlich verfügbar.**
 
-Android-Tester können 0.8.12 bereits über den internen Test beziehen. Die öffentliche Freigabe der gleichen Version für Android und iOS erfolgt nach beiden Store-Genehmigungen. Die öffentliche Android-Version ist zuletzt als 0.8.2 bestätigt. Einen Apple-Downloadlink ergänzen wir nach tatsächlicher öffentlicher Freigabe.
-
-[Änderungen in 0.8.12](docs/release-0.8.12.md) · [Anleitung für 0.8.12](docs/help-0.8.12.md)
+Die vorherige Android-Version 0.8.12 wurde genehmigt, aber nicht öffentlich freigegeben. Die öffentliche Android-Version ist zuletzt als 0.8.2 bestätigt. Apples bestehende Prüfung von **0.8.12 (4030)** bleibt unverändert; 0.8.13 ist noch nicht für iOS eingereicht. Einen Apple-Downloadlink ergänzen wir nach tatsächlicher öffentlicher Freigabe.
 
 ## Hilfe und Informationen
 
