@@ -12,13 +12,15 @@ Neue Android-Versionen und Updates kommen über Google Play. Die öffentliche St
 
 [Internen Google-Play-Test öffnen](https://play.google.com/apps/internaltest/4700249122595124514)
 
-Zugang für bereits freigeschaltete Testkonten. Version **0.8.13 (4031)** ist seit **17. Oktober 2026, 23:25 Uhr (Europe/Berlin)** für interne Android-Tester verfügbar. Google kann neue Builds zeitversetzt ausliefern. [Änderungen](docs/release-0.8.13.md) · [Anleitung](docs/help-0.8.13.md).
+Zugang für bereits freigeschaltete Testkonten. Version **0.8.14 (4032)** ist seit **18. Oktober 2026, 00:31 Uhr (Europe/Berlin)** für interne Android-Tester verfügbar. Google kann neue Builds zeitversetzt ausliefern. [Änderungen](docs/release-0.8.14.md) · [Anleitung](docs/help-0.8.14.md).
 
 ## Öffentliche Veröffentlichung
 
-**Android 0.8.13 (4031)** mit Ordnerverwaltung, Ordnerfreigabe, FTP-Zielauswahl, Sicherungsanzeige und Dokumentstapel-Aufteilung wurde am **17. Oktober 2026** einschließlich neuer Beschreibung und sechs Smartphone-Bildern bei Google Play zur Prüfung eingereicht. Google bestätigt „Änderungen, die überprüft werden“; Vorabprüfungen laufen. **0.8.13 ist noch nicht öffentlich verfügbar.**
+**Android 0.8.13 (4031) ist seit 18. Oktober 2026 öffentlich bei Google Play verfügbar.** Die öffentliche Play-Seite bestätigt Version 0.8.13, die aktualisierte Beschreibung und sechs Smartphone-Ansichten. Enthalten sind Ordnerverwaltung und Ordnerfreigabe, FTP-Zielauswahl, Sicherungsanzeige und Dokumentstapel-Aufteilung. [Änderungen](docs/release-0.8.13.md) · [Anleitung](docs/help-0.8.13.md).
 
-Die vorherige Android-Version 0.8.12 wurde genehmigt, aber nicht öffentlich freigegeben. Die öffentliche Android-Version ist zuletzt als 0.8.2 bestätigt. Apples bestehende Prüfung von **0.8.12 (4030)** bleibt unverändert; 0.8.13 ist noch nicht für iOS eingereicht. Einen Apple-Downloadlink ergänzen wir nach tatsächlicher öffentlicher Freigabe.
+**0.8.14 (4032)** mit FTP-Bestandsprüfung und Nachsicherung älterer Dokumente wurde am **18. Oktober 2026** einschließlich neuer Beschreibung bei Google zur öffentlichen Prüfung eingereicht. Die Vorabprüfungen laufen. **0.8.14 ist noch nicht öffentlich verfügbar.** Die bereits veröffentlichten Smartphone-Bilder passen weiterhin und bleiben unverändert.
+
+Apple wurde bei diesem Android-Update nicht verändert. Letzter bestätigter Stand vom 17. Oktober: **0.8.12 (4030)** in Prüfung. 0.8.13 und 0.8.14 sind nicht für iOS eingereicht. Einen Apple-Downloadlink ergänzen wir nach tatsächlicher öffentlicher Freigabe.
 
 ## Hilfe und Informationen
 

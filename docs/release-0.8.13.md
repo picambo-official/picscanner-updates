@@ -17,3 +17,7 @@ Produktionsrelease, deutsche Beschreibung und sechs Smartphone-Bilder sind zur P
 Dieses Update betrifft Android. Apples bestehende Prüfung von 0.8.12 wird nicht verändert; für iOS ist 0.8.13 noch nicht eingereicht.
 
 [Anleitung](help-0.8.13.md) · [Downloads und aktueller Stand](../README.md)
+
+## Veröffentlichung am 18. Oktober 2026
+
+Google hat Version 0.8.13 (4031) genehmigt. Sie wurde am 18. Oktober öffentlich freigegeben; die öffentliche Play-Seite zeigt Version 0.8.13 und die aktualisierte Beschreibung. [Google Play öffnen](https://play.google.com/store/apps/details?id=com.picambo.picscanner).
