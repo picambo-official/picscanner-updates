@@ -14,7 +14,7 @@ PicScanner von Picambo: Dokumente scannen, bearbeiten und lokal verwalten. Der A
 
 [PicScanner im Apple App Store](https://apps.apple.com/de/app/picscanner-pdf-dokumente/id6821092986)
 
-**Die erste iOS-Version 0.8.12 (4030) ist seit 20. Oktober 2026 öffentlich verfügbar.** Apples Vertriebsstatus und die öffentliche deutsche App-Seite wurden bestätigt. [Anleitung für iOS 0.8.12](docs/help-0.8.12.md). Die neueren Android-Versionen 0.8.13 bis 0.8.15 sind noch nicht für iOS eingereicht; Funktionsgleichstand wird nicht behauptet.
+**Die erste iOS-Version 0.8.12 (4030) ist seit 20. Oktober 2026 öffentlich verfügbar.** Apples Vertriebsstatus und die öffentliche deutsche App-Seite wurden bestätigt. [Anleitung für iOS 0.8.12](docs/help-0.8.12.md). **Das iOS-Update 0.8.15 (4033) ist seit 20. Oktober 2026, 22:55 Uhr zur Apple-Prüfung eingereicht.** Es wird nach Genehmigung automatisch veröffentlicht. Bis dahin ist 0.8.12 die öffentliche iOS-Version. [Neuerungen in 0.8.15](docs/release-0.8.15.md).
 
 ## Vorabversionen
 
