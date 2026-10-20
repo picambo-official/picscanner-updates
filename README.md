@@ -8,7 +8,7 @@ PicScanner von Picambo: Dokumente scannen, bearbeiten und lokal verwalten. Der A
 
 **0.8.14 (4032) ist seit 20. Oktober 2026 öffentlich verfügbar.** Die öffentliche Play-Seite wurde geprüft. Enthalten sind FTP-Bestandsprüfung und Nachsicherung älterer Dokumente. [Änderungen](docs/release-0.8.14.md) · [Anleitung](docs/help-0.8.14.md).
 
-**0.8.15 (4033)** ergänzt eine klarere Ordnerablage mit Suche, Ebenennavigation und einheitlicher Zielauswahl. Der öffentliche Roll-out einschließlich Beschreibung und sechs Smartphone-Bildern ist zur Google-Prüfung übermittelt. Veröffentlichung erfolgt nach Genehmigung automatisch. Noch nicht öffentlich bestätigt.
+**0.8.15 (4033)** ergänzt eine klarere Ordnerablage mit Suche, Ebenennavigation und einheitlicher Zielauswahl. Paket, Beschreibung und sechs Smartphone-Bilder sind gespeichert; die Vorabprüfungen sind abgeschlossen. Die Play Console bestätigt die Einreichung derzeit nicht. Daher noch nicht zur öffentlichen Prüfung eingereicht und nicht öffentlich verfügbar. Veröffentlichung ist nach erfolgreicher Einreichung und Genehmigung automatisch vorgesehen.
 
 ## iPhone und iPad
 

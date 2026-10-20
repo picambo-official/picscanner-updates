@@ -1,6 +1,6 @@
 # PicScanner 0.8.15 – klare Ordnerablage
 
-Android-Build 4033, interner Test seit 20. Oktober 2026. Öffentliche Google-Prüfung übermittelt; automatische Veröffentlichung nach Genehmigung. Noch nicht öffentlich bestätigt. Für iOS noch nicht eingereicht.
+Android-Build 4033, interner Test seit 20. Oktober 2026. Öffentliche Einreichung noch offen: Die Play Console bestätigt den Versand trotz abgeschlossener Vorabprüfung nicht. Paket und Store-Inhalte sind gespeichert, nicht öffentlich. Automatische Veröffentlichung nach erfolgreicher Einreichung und Genehmigung vorgesehen. Für iOS noch nicht eingereicht.
 
 - Ordner Ebene für Ebene öffnen, mit Pfadleiste und Rücksprung zum übergeordneten Ordner.
 - Ordner und Unterordner durchsuchen, auch mit mehreren Suchwörtern.
